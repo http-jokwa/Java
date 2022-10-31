@@ -1,4 +1,3 @@
 # Java
 
-
-Hi I'am Joschua Ordonio
+I hope this repository will help you to improve your knowledge in Java Language
