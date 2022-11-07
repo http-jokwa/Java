@@ -45,7 +45,11 @@ public class TwoDimension {
      
          System.out.println(number[1][3]); // output : 8
      
+     //We can also print all the elements inside the array using for loop
      
+     for(int i = 0; i<number.length(); i++){
+       System.out.print(number[i] + " ");
+     }
      
    }
   
