@@ -1,4 +1,3 @@
-package DataTypes;
 
 public class dataFloat {
 
