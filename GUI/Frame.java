@@ -1,5 +1,5 @@
 
-import javax.swing.*;
+import javax.swing.*; //wildcard import
 
 public class Frame {
 
