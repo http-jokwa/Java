@@ -10,8 +10,9 @@ public class Label {
 		
 		f.setVisible(true); // to make your frame appear/show/visible
 		f.setSize(500, 500); //set the dimension of your frame
-    f.add(jl); //we add label inside the frame
-    jl.setVisible(True); // we set visible the text
+    		f.add(jl); //we add label inside the frame
+    		jl.setVisible(True); // we set visible the text
+		//we can also align the label using the setBounds() method
     
     
 	}
